@@ -5,6 +5,8 @@
 #include<d3dx11.h>
 #include<DxErr.h>
 
+// Matthew Geiger
+
 
 class Dx11DemoBase
 {
