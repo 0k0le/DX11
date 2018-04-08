@@ -1,6 +1,8 @@
 #ifndef _BLANK_DEMO_H_
 #define _BLANK_DEMO_H_
 
+// Matthew Geiger
+
 #include"Dx11DemoBase.h"
 
 
