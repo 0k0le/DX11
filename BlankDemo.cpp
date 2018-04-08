@@ -1,7 +1,7 @@
 #include "BlankDemo.h"
 #include <xnamath.h>
 
-
+// Matthew Geiger
 BlankDemo::BlankDemo()
 {
 
