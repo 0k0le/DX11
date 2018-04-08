@@ -1,5 +1,7 @@
 #include"Dx11DemoBase.h"
 
+// Matthew Geiger
+
 
 Dx11DemoBase::Dx11DemoBase() : driverType_(D3D_DRIVER_TYPE_NULL), featureLevel_(D3D_FEATURE_LEVEL_11_0),
 d3dDevice_(0), d3dContext_(0), swapChain_(0), backBufferTarget_(0)
