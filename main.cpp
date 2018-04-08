@@ -2,6 +2,8 @@
 #include<memory>
 #include"BlankDemo.h"
 
+// Matthew Geiger
+// Studio Coupe
 
 LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam);
 
